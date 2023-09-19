@@ -1,2 +1,1 @@
-# grid-deliverable
-Deliverable 8, Grid
+# simple-grid2023
